@@ -14,7 +14,7 @@ it use in various of feilds like video and music service industry. Ecom for item
 collaborative filtering Have Two Scenses 1) Narrow one and more General one
 in Narrower one it is a method of Making Automatic Predictions about the interests of a user by collecting inforamtion from the User. filtering on the basis of users like and dislike and their user's similarity and Taste of content.
 
- **The Idea :- **
+ **The Idea**
  The Motivation for Collaborative Filtering Comes from the Idea that People often get the Best recommendation from someone with tastes similar to themselves.
 
 **Requirment of Collaborative Filtering system is :-**
